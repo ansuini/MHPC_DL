@@ -1,0 +1,5 @@
+1. intro
+2. mnist with mlp mse
+3. mnist with mlp custom loss
+4. mnist with mlp cross entropy
+5. mnist with convolutional network
