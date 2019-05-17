@@ -3,3 +3,34 @@
 3. mnist with mlp custom loss
 4. mnist with mlp cross entropy
 5. mnist with convolutional network
+
+
+derivation of cross-entropy in the binary case
+
+relation with the ML
+
+relation with the KL-distance
+
+justification of the cross entropy
+
+intrinsic dimension
+
+pca
+
+t-sne
+
+decoding (no)
+
+filters visualization
+
+transfer learning with another dataset of mnist-kanji
+
+autoencoders
+
+autoencoders in depth
+
+relation with pca
+
+medical images
+
+generative adversarial networks
